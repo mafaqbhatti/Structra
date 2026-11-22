@@ -15,7 +15,7 @@ from pydantic import BaseModel, EmailStr, Field
 from structured_output_agent.__main__ import WEB_ACTIONS, execute
 from structured_output_agent.engine import OutputValidationError
 
-app = FastAPI(title="Structured Output Agent", docs_url=None, redoc_url=None)
+app = FastAPI(title="Structra", docs_url=None, redoc_url=None)
 MAX_BODY = 100_000
 
 
