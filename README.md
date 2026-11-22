@@ -1,4 +1,4 @@
-# Structured Output Agent
+# Structra: Structured Output Agent
 
 ## About
 
